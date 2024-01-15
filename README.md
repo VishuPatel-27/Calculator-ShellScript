@@ -74,4 +74,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ---
 
-Feel free to customize this template based on the specifics of your project and any additional information you'd like to include.
